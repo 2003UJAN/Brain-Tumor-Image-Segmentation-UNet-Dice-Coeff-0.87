@@ -1,1 +1,1 @@
-# Brain-Tumor-Imag
+# Brain-Tumor-Image
