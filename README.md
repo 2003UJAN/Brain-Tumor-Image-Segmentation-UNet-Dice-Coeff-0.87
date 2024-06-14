@@ -1,1 +1,1 @@
-# Brain-Tumor-Image-Segmentation-UNet-Dice-Coeff-0.8
+# Brain-Tumor-Image-Segmentation-UNet-Dice-Coeff-0.87
